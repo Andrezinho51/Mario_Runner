@@ -1,5 +1,6 @@
 # Mario_Runner
-Projeto Desenvolvimento Web (grupo 2)
+
+Projeto final para a materia de Desenvolvimento Web (grupo 2)
 
 *gog31070 - Gabriel Oyoli Gonçalves | RA - 21003464
 
